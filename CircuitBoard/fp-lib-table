@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MyCustomPartFootprints") (type "KiCad") (uri "C:/Users/parke/Desktop/VSCode Projects/Circuit Boards/MyCustomPartFootprints.pretty") (options "") (descr ""))
+	(lib (name "ExoFootprins") (type "KiCad") (uri "${KIPRJMOD}/ExoFootprins.pretty") (options "") (descr ""))
+	(lib (name "ExoFootprins") (type "KiCad") (uri "${KIPRJMOD}/ExoFootprins.pretty") (options "") (descr ""))
+)
